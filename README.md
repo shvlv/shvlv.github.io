@@ -1,4 +1,3 @@
-shvlv.github.com
-================
+# Personal website
 
-My page
+Built with [GitHub Pages](https://docs.github.com/en/pages).
