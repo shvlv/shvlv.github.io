@@ -30,6 +30,8 @@ show_excerpts: true
 # Build settings
 theme: minima
 permalink: /:year/:month/:day/:title/
+header_pages:
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
