@@ -1,0 +1,11 @@
+---
+# Customization of minima theme
+---
+
+@import "minima";
+
+.post {
+  hr {
+    margin-bottom: 1em;
+  }
+}
