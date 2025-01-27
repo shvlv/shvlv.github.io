@@ -20,7 +20,7 @@
 
 title: Volodymyr Shelmuk
 description: >- # this means to ignore newlines until "baseurl:"
-  Passionate WordPress developer.
+  Passionate WordPress developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shvlv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: shvlv
@@ -29,7 +29,6 @@ show_excerpts: true
 # Build settings
 theme: minima
 permalink: /:year/:month/:day/:title/
-plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
