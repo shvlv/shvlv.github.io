@@ -2,7 +2,9 @@
 layout: post
 title: "Jekyll relaunch"
 date: 2025-01-09 17:15:45 +0200
-categories: jekyll relaunch
+categories: 
+  - jekyll
+  - relaunch
 ---
 
 After 10 years, I decided to update my website. WordPress would be the obvious choice for a
