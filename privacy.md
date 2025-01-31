@@ -11,7 +11,7 @@ collected information may include a visitor’s IP address, operating system, br
 activity and other information. See
 the [scope of data collected by Piwik PRO](https://help.piwik.pro/support/getting-started/what-data-does-piwik-pro-collect/).
 
-The purpose of data processing: analytics and conversion tracking based on consent. Legal basis:
+The purpose of data processing is the analytics. Legal basis:
 Art. 6 (1)(a) GDPR.
 
 Piwik PRO does not send the data about you to any other sub-processors or third parties and does not
